@@ -1,4 +1,4 @@
-Menu de gestion de estudiantes
+**Menu de gestion de estudiantes**
 
 Es un programa simple y educativo en **Python puro** (sin dependencias externas) que permite gestionar una lista de estudiantes mediante un menú interactivo en consola.
 
